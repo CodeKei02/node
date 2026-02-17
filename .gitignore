@@ -10,4 +10,4 @@ logs/
 mongo/
 postgres/
 /src/generated/prisma
-prisma.config.ts
+/prisma.config.ts
