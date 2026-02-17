@@ -1,0 +1,12 @@
+node_modules/
+dist_
+
+.DS_Store
+
+logs/
+
+.env
+
+mongo/
+postgres/
+/src/generated/prisma
